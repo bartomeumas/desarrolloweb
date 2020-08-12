@@ -1,0 +1,11 @@
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\bin\Debug\netcoreapp3.0\TcpEchoClient.exe
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\bin\Debug\netcoreapp3.0\TcpEchoClient.deps.json
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\bin\Debug\netcoreapp3.0\TcpEchoClient.runtimeconfig.json
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\bin\Debug\netcoreapp3.0\TcpEchoClient.runtimeconfig.dev.json
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\bin\Debug\netcoreapp3.0\TcpEchoClient.dll
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\bin\Debug\netcoreapp3.0\TcpEchoClient.pdb
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\obj\Debug\netcoreapp3.0\TcpEchoClient.csprojAssemblyReference.cache
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\obj\Debug\netcoreapp3.0\TcpEchoClient.AssemblyInfoInputs.cache
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\obj\Debug\netcoreapp3.0\TcpEchoClient.AssemblyInfo.cs
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\obj\Debug\netcoreapp3.0\TcpEchoClient.dll
+C:\Users\barto\source\repos\TcpEchoClient\TcpEchoClient\obj\Debug\netcoreapp3.0\TcpEchoClient.pdb

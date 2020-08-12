@@ -1,0 +1,10 @@
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\bin\Debug\netcoreapp3.0\TcpEchoServer.exe
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\bin\Debug\netcoreapp3.0\TcpEchoServer.deps.json
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\bin\Debug\netcoreapp3.0\TcpEchoServer.runtimeconfig.json
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\bin\Debug\netcoreapp3.0\TcpEchoServer.runtimeconfig.dev.json
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\bin\Debug\netcoreapp3.0\TcpEchoServer.dll
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\bin\Debug\netcoreapp3.0\TcpEchoServer.pdb
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\obj\Debug\netcoreapp3.0\TcpEchoServer.AssemblyInfoInputs.cache
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\obj\Debug\netcoreapp3.0\TcpEchoServer.AssemblyInfo.cs
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\obj\Debug\netcoreapp3.0\TcpEchoServer.dll
+C:\Users\barto\source\repos\TcpEchoServer\TcpEchoServer\obj\Debug\netcoreapp3.0\TcpEchoServer.pdb
